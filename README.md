@@ -1,6 +1,12 @@
-# VideoFixer
+# VideoFixer for f.lux
 
-Fix full-screen video issues when using [f.lux](https://justgetflux.com). Not associated with the makers of f.lux.
+For macOS users. Fix visual color artifacts in full-screen videos in Safari and Chrome when the [f.lux app](https://justgetflux.com) is running. Not associated with the makers of f.lux.
+
+Contains source code for Safari and Chrome extensions.
+
+## Download
+
+Extensions have been submitted to Apple and Google and should be available soon.
 
 ## Author
 
