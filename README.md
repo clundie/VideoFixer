@@ -6,7 +6,8 @@ Contains source code for Safari and Chrome extensions.
 
 ## Download
 
-Extensions have been submitted to Apple and Google and should be available soon.
+- [Get the Chrome extension](https://chrome.google.com/webstore/detail/videofixer-for-flux/gmkeppffdejhpppfnbgakglpoeaobhhh)
+- The Safari extension has been submitted to Apple and hopefully will be available soon.
 
 ## Author
 
