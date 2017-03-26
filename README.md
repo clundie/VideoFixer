@@ -12,6 +12,7 @@ Contains source code for Safari and Chrome extensions.
 ## Contributors
 
 [Chris Lundie](https://www.lundie.ca/)
+
 [Nicolas Gryman](https://github.com/ngryman)
 
 ## License
