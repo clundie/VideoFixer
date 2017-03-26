@@ -9,9 +9,10 @@ Contains source code for Safari and Chrome extensions.
 - [Get the Chrome extension](https://chrome.google.com/webstore/detail/videofixer-for-flux/gmkeppffdejhpppfnbgakglpoeaobhhh)
 - The Safari extension has been submitted to Apple and hopefully will be available soon.
 
-## Author
+## Contributors
 
 [Chris Lundie](https://www.lundie.ca/)
+[Nicolas Gryman](https://github.com/ngryman)
 
 ## License
 
