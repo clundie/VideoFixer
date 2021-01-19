@@ -1,6 +1,0 @@
-video:-webkit-full-screen, :-webkit-full-screen video {
-  opacity: 0.996 !important;
-}
-video:fullscreen, :fullscreen video {
-  opacity: 0.996 !important;
-}
